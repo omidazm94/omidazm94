@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omidazm94
+- 👋 Hi, I’m Omid Azimi.
 - 👀 I’m interested in web and mobile applications developed by react and angular.
 - 🌱 I’m currently learning angular and nodejs and also ui/ux design.
 - 💞️ I’m looking to collaborate on different projects with different teams.
